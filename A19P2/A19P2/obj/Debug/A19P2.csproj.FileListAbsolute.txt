@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\bin\Debug\A19P2.exe.config
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\bin\Debug\A19P2.exe
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\bin\Debug\A19P2.pdb
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\obj\Debug\A19P2.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\obj\Debug\A19P2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\obj\Debug\A19P2.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\obj\Debug\A19P2.exe
+C:\Users\moham\source\repos\Day16\A19P2\A19P2\obj\Debug\A19P2.pdb

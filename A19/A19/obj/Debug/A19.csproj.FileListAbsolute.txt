@@ -1,0 +1,16 @@
+C:\Users\moham\source\repos\Day16\A19\A19\bin\Debug\A19.exe.config
+C:\Users\moham\source\repos\Day16\A19\A19\bin\Debug\A19.exe
+C:\Users\moham\source\repos\Day16\A19\A19\bin\Debug\A19.pdb
+C:\Users\moham\source\repos\Day16\A19\A19\obj\Debug\A19.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day16\A19\A19\obj\Debug\A19.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day16\A19\A19\obj\Debug\A19.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day16\A19\A19\obj\Debug\A19.exe
+C:\Users\moham\source\repos\Day16\A19\A19\obj\Debug\A19.pdb
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\bin\Debug\A19.exe.config
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\bin\Debug\A19.exe
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\bin\Debug\A19.pdb
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\obj\Debug\A19.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\obj\Debug\A19.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\obj\Debug\A19.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\obj\Debug\A19.exe
+C:\Users\moham\source\repos\Day16\assignmentsof31july\A19\A19\obj\Debug\A19.pdb
